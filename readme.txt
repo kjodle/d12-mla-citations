@@ -3,7 +3,7 @@ Contributors: kjodle
 Tags: citations, scholar, MLA
 Donate link: http://kjodle.info/support
 Requires at least: 2.5
-Tested up to: 4.2.2
+Tested up to: 4.4.1
 Stable tag: 2.1
 License: GPL v.3
 License URI: http://www.gnu.org/copyleft/gpl.html
@@ -18,7 +18,7 @@ This plugin also adds a shortcode (hly) for highlighting text in quotations, as 
 
 For complete usage instructions, please visit http://kjodle.net/wordpress/mla-citations/
 
-Want to check it out in different themes? Check out [my multi-theme demo page](http://waybeta.net/2015/07/d12-mla-citations-plugin/).
+Want to it in action? Check out [the demo](http://demo.kjodle.net/wordpress/plugins/d12-mla-citations/).
 
 
 == Installation ==
