@@ -3,7 +3,7 @@
 Plugin Name: d12 MLA Citations
 Plugin URI: http://www.kjodle.net/wordpress/mla-citations/
 Description: Easily add MLA style citations to your WordPress posts.
-Version: 2.1
+Version: 2.1-alpha+001
 Author: Kenneth John Odle
 Author URI: http://techblog.kjodle.net
 Author Support: http://kjodle.info/support
